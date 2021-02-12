@@ -1,7 +1,7 @@
 body {
   color: red;
   font-size: large;
-  div {
-    color: blue
-  }
+}
+body div {
+  color: green;
 }
