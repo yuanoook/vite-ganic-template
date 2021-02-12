@@ -1,0 +1,24 @@
+{
+  "name": "vite-ganic-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "vite": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rango Yuan",
+  "license": "MIT",
+  "devDependencies": {
+    "less": "^4.1.1",
+    "vite": "^2.0.0-beta.69"
+  },
+  "dependencies": {
+    "ganic": "^2.2.0",
+    "ganic-dom": "^2.2.10",
+    "ganic-dom-air": "^1.0.0",
+    "ganic-pandora": "^1.0.2",
+    "ganic-usex": "^2.2.6"
+  }
+}
